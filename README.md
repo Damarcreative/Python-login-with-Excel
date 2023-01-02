@@ -20,7 +20,7 @@ Example of writing a table in an Excel file
 | ■ | A | B | C | D | E |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | name | email | username | password |  |
-| 2 | sarah | sarah.mail.tld | sarahdinda | sarahdinda@123 |  |
+| 2 | sarah | sarah@mail.tld | sarahdinda | sarahdinda@123 |  |
 | 3 | Khalisa | khalisa@mail.tld | Khalisa_devia | Khalisa@1122 |  |
 | 4 |  |  |  |  |  |
 
